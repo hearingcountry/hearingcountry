@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Hearingcountry GitHub stats](https://github-readme-stats.vercel.app/api?username=hearingcountry)](https://github.com/hearingcountry/hearingcountry)
+![Hearingcountry GitHub stats](https://github-readme-stats.vercel.app/api?username=hearingcountry)](https://github.com/hearingcountry/hearingcountry)
+![Hearingcountry GitHub stats](https://github-readme-stats.vercel.app/api?username=hearingcountry&count_private=true)
+
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) -->
 
