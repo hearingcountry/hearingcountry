@@ -1,9 +1,10 @@
-### Hi there! My name is Dcky Surya 👋
+### Hi there! My name is Dicky Surya 👋
 
 ### My Social Media Account
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hellosurya.me)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hearingcountry)
+![Profile views](https://gpvc.arturio.dev/hearingcountry)
 
 <a href="https://github.com/hearingcountry/hearingcountry">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hearingcountry&show_icons=true&theme=radical" />
