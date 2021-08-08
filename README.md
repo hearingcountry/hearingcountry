@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![Hearingcountry GitHub stats](https://github-readme-stats.vercel.app/api?username=hearingcountry&count_private=true)
-![Hearingcountry GitHub stats](https://github-readme-stats.vercel.app/api?username=hearingcountry&show_icons=true)
+<a href="https://github.com/hearingcountry/hearingcountry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hearingcountry&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/hearingcountry/hearingcountry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hearingcountry&layout=compact&theme=radical" />
+</a>
 
 
 
