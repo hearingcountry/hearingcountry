@@ -5,7 +5,7 @@
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hellosurya.me) -->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hearingcountry)
-![Profile views](https://gpvc.arturio.dev/hearingcountry)
+
 
 ### 📈 GitHub Stats
 
