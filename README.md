@@ -1,6 +1,5 @@
 ### 👊 Hi there! My name is Dicky Surya 👋
-        ✍ I'm currently focusing on learning about Frontend Developer and UI Design.
-
+        ✍ Creative tech student with a passion for product design and awarded nationally for 4+ projects
 ### 🚀 My Social Media Account
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hellosurya.me) -->
